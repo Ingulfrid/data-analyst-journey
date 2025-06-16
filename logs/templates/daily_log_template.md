@@ -1,5 +1,5 @@
 ---
-date: YYYY-MM-DD
+date: 2025-06-16
 day: N
 phase: "Pre-course"
 week: W
