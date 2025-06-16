@@ -12,13 +12,13 @@ My long-term goal is to work in a role where I can leverage data meaningfully �
 
 This roadmap is split into 5 skill-building phases, designed to complement the VDAB course while filling in gaps and boosting real-world job readiness:
 
-| Phase | Timeline | Focus |
-|-------|----------|-------|
-| **0. Orientation** | June 2025 | Understand the data analytics landscape, roles, workflows, and key concepts |
-| **1. Tool Fundamentals** | June–July 2025 | Excel, SQL, Python (optional); working with real datasets |
-| **2. Practice & Portfolio** | July–August 2025 | Apply tools on real datasets, begin dashboarding, storytelling & visualization |
-| **3. Business Thinking** | During VDAB course | Learn KPIs, stakeholder needs, case-style projects; simulate real job tasks |
-| **4. Job Readiness** | March–Sept 2026 | Finalize portfolio, polish CV/LinkedIn, practice interview scenarios, specialize further |
+| Phase | Focus |
+|-------|-------|
+| **0. Orientation** | Understand the data analytics landscape, roles, workflows, and key concepts |
+| **1. Tool Fundamentals** | Excel (pivot tables, functions, cleaning), SQL (SELECT, JOIN, GROUP BY), basic Python (pandas, Jupyter, CSVs), data types & cleaning, basic charts, intro to public datasets, and light exposure to Git and BI tools |
+| **2. Practice & Portfolio** | Apply tools on real datasets, begin dashboarding, storytelling & visualization |
+| **3. Business Thinking** | Learn KPIs, stakeholder needs, case-style projects; simulate real job tasks |
+| **4. Job Readiness** | Finalize portfolio, polish CV/LinkedIn, practice interview scenarios, specialize further |
 
 🧠 Alongside these phases: I’ll build soft skills, presentation techniques, documentation habits, and communication clarity — all essential for analyst work.
 
@@ -42,32 +42,27 @@ Each project will be properly documented and include:
 ---
 
 ## 📁 Folder Structure
-/projects → self-directed and course-related analysis projects
-/logs → daily/weekly reflections & progress logs
-/resources → useful links, notes, templates, learning materials
-/docs → write-ups, case studies, business analysis simulations
+
+- `/projects` → self-directed and course-related analysis projects  
+- `/logs` → daily/weekly reflections & progress logs  
+- `/todo.md` → current personal focus, learning goals, and next steps  
+- `/resources` → useful links, notes, templates, learning materials  
+- `/docs` → write-ups, case studies, business analysis simulations  
+- `/certificates` → possible certificates gained to compliment the VDAB course  
 
 ---
 
-## 📝 Logs
+## 📝 Progress Tracking
 
-I reflect regularly in the `/logs` folder to track habits, struggles, learning insights, and technical notes. Think of it as a raw, personal dev diary.
+I reflect regularly in the [`/logs`](./logs/) folder to track habits, struggles, learning insights, and technical notes.  
+[`/todo.md`](./todo.md) reflects the current state of progress and short-term learning goals.
 
 ---
 
 ## 🔗 External Links
 
-- LinkedIn: *(coming soon)*  
+- LinkedIn: https://www.linkedin.com/in/alan-de-geest-5bb3b620a/ *(currently outdated)*  
 - GitHub Pages (Portfolio site): https://github.com/Ingulfrid/data-analyst-journey
-
----
-
-## ✅ Next Steps (June 2025)
-
-- [ ] Complete orientation (career goals, tool landscape, example dashboards)
-- [ ] Set up first datasets for practice in Excel and SQL
-- [ ] Begin documenting learnings from each mini-project
-- [ ] Define a “starter portfolio” plan (3–4 projects by September)
 
 ---
 
