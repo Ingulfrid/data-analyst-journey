@@ -1,5 +1,5 @@
 ---
-date: YYYY-MM-DD
+date: DD-MM-YYYY
 day: N
 phase: "Pre-course"
 week: W
