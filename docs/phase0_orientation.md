@@ -26,9 +26,11 @@ It helped me build a clear mental map of the field by focusing on:
 > A Data Analyst is the engine of daily data work — turning messy numbers into useful answers.  
 > They’re the bridge between raw data and everyday business questions, but not the architect of systems, strategies, or predictive models.
 
-“Data Analyst” is sometimes used as a broad label for anyone working with data, but in practice, it's also a well-defined job title with specific expectations, tools, and business value. It sits at the heart of many analytics teams — highly practical and execution-focused.
+“Data Analyst” is sometimes used as a broad label for anyone working with data, but in practice, it's also a well-defined job title with specific expectations, tools, and business value. 
+It sits at the heart of many analytics teams — highly practical and execution-focused.
 
-A Data Analyst is the most hands-on role when it comes to turning raw data into insights that directly support business decisions. Their core responsibility is to **explore, clean, and interpret** data to answer specific questions. They typically work with existing datasets (from Excel, SQL databases, BI tools, etc.) and deliver reports, charts, and summaries that help others understand what’s going on — and why.
+A Data Analyst is the most hands-on role when it comes to turning raw data into insights that directly support business decisions. Their core responsibility is to **explore, clean, and interpret** data to answer specific questions. 
+They typically work with existing datasets (from Excel, SQL databases, BI tools, etc.) and deliver reports, charts, and summaries that help others understand what’s going on — and why.
 
 #### What They *Are*:
 - Focused on **descriptive and diagnostic** analysis (what happened, why did it happen)
@@ -116,6 +118,8 @@ In essence, BI analysts are focused on understanding what has happened and why, 
 Power BI, Tableau, Looker, Google Data Studio, SQL, Excel, DAX, LookML, possibly some Python for integration
 
 ### 🛠 Junior Analyst / Reporting Assistant
+*! This isn’t a distinct domain, but an early-career version of the analyst track.*
+
 > A Junior Analyst supports the data team by handling routine tasks — cleaning data, running basic queries, refreshing reports — while learning the tools and workflows of full-fledged analysts.
 
 This role is often an **entry point** into the analytics field. 
@@ -222,6 +226,8 @@ Their work is mostly invisible to business users, but critical to everyone downs
 - Not focused on ML or statistical modeling — that’s the role of a **Data Scientist**
 - Not always end-user-facing — often work “behind the scenes” to maintain infrastructure
 
+Unlike *BI Analysts*, they don’t work in front-end tools; unlike *Data Scientists*, their goal isn’t modeling — it’s availability and reliability.
+
 #### In summary:
 - Designs and maintains the data architecture that analytics depends on  
 - Moves data from sources to usable storage through automated, scalable pipelines  
@@ -237,7 +243,7 @@ Python, SQL, Airflow, dbt, Spark, Kafka, cloud platforms (AWS, GCP, Azure), data
 
 Where Data Analysts look at **what happened**, Data Scientists focus on **what will happen** or **why it matters statistically**. 
 They work with large, sometimes unstructured datasets and apply mathematical models to forecast trends, cluster behaviors, or classify data points. 
-Their goal is to generate insight at scale — often using code-heavy tools and research-like methods.
+Their goal is to generate insight at scale — often using code-heavy tools and research-like methods such as through experiment design or A/B testing.
 
 This is one of the most technical roles in the data space, often requiring strong backgrounds in statistics, math, and programming. 
 However, in many teams, they also collaborate with analysts to ensure their models are used in real decision-making.
