@@ -1,8 +1,8 @@
 ---
 week: W
 phase: "Pre-course"
-start_date: DD-MM-YYYY
-end_date: DD-MM-YYYY
+start_date: YYYY-MM-DD
+end_date: YYYY-MM-DD
 hours_spent: ~X
 log_type: "weekly_summary"
 tags: ["summary", "reflection"]
